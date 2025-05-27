@@ -1,9 +1,5 @@
-# Jupyterhub-with-cloudflared
 <aside>
-<img src="/icons/cloud_orange.svg" alt="/icons/cloud_orange.svg" width="40px" />
-
 ## Install Jupyterhub & Cloudflared Documentation
-
 </aside>
 
 - Jupyterhub Server
